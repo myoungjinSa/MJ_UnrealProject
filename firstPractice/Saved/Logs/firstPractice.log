@@ -1,0 +1,1063 @@
+﻿Log file open, 03/02/19 20:35:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: firstPractice
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(536361822) SRandInit(536361822).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.233600
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.101s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Binaries/Win64/UE4Editor-firstPractice-1806.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-SV31GVB (192.168.0.53:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.02-11.36.00:240][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.02-11.36.00:240][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.02-11.36.00:260][  0]LogInit: Computer: DESKTOP-SV31GVB
+[2019.03.02-11.36.00:260][  0]LogInit: User: 명진
+[2019.03.02-11.36.00:260][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.03.02-11.36.00:260][  0]LogInit: High frequency timer resolution =3.515631 MHz
+[2019.03.02-11.36.00:261][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.02-11.36.00:261][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.02-11.36.00:261][  0]LogMemory: Process Physical Memory: 272.56 MB used, 272.56 MB peak
+[2019.03.02-11.36.00:261][  0]LogMemory: Process Virtual Memory: 265.95 MB used, 265.95 MB peak
+[2019.03.02-11.36.00:261][  0]LogMemory: Physical Memory: 6442.31 MB used,  1633.82 MB free, 8076.13 MB total
+[2019.03.02-11.36.00:261][  0]LogMemory: Virtual Memory: 4778.54 MB used,  1633.82 MB free, 134217728.00 MB total
+[2019.03.02-11.36.01:234][  0]LogInit: Overriding language with editor language configuration option (ko).
+[2019.03.02-11.36.01:234][  0]LogInit: Overriding locale with editor locale configuration option (ko).
+[2019.03.02-11.36.02:043][  0]LogStreaming: Display: Took  0.810s to EndInitTextLocalization.
+[2019.03.02-11.36.02:047][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.02-11.36.02:416][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.02-11.36.02:416][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.02-11.36.05:358][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.02-11.36.05:425][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.03.02-11.36.05:425][  0]LogD3D11RHI:       4053/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.02-11.36.05:454][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.03.02-11.36.05:454][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.02-11.36.05:456][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.02-11.36.05:456][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.02-11.36.05:456][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.02-11.36.05:483][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.02-11.36.05:483][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.03.02-11.36.05:483][  0]LogWindows: EnumDisplayDevices:
+[2019.03.02-11.36.05:484][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.03.02-11.36.05:484][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.02-11.36.05:485][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.03.02-11.36.05:485][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.02-11.36.05:485][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.03.02-11.36.05:485][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.02-11.36.05:485][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.02-11.36.05:485][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.03.02-11.36.05:527][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2019.03.02-11.36.05:527][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.02-11.36.05:527][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.02-11.36.05:541][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.02-11.36.05:543][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Intermediate/Shaders/WorkingDirectory/23488/).
+[2019.03.02-11.36.05:543][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/명진/AppData/Local/Temp/UnrealShaderWorkingDir/44D28CAF4522DA1CF46E5897C16A95F6/'.
+[2019.03.02-11.36.06:615][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.02-11.36.06:627][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.02-11.36.06:639][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.02-11.36.06:651][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.02-11.36.06:670][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.02-11.36.06:682][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.02-11.36.06:694][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.02-11.36.06:707][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.02-11.36.06:712][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.02-11.36.06:723][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.03.02-11.36.06:735][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.03.02-11.36.06:747][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.03.02-11.36.06:759][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.03.02-11.36.06:771][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.03.02-11.36.06:783][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.03.02-11.36.06:811][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.03.02-11.36.06:811][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.03.02-11.36.06:829][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-11.36.06:830][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.02-11.36.06:948][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.02-11.36.06:959][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.02-11.36.06:969][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.02-11.36.06:980][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.02-11.36.06:992][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.02-11.36.07:008][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.02-11.36.07:008][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.02-11.36.08:236][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.02-11.36.08:236][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.02-11.36.08:236][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.02-11.36.10:234][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.02-11.36.10:394][  0]LogDerivedDataCache: Loaded boot cache 0.16s 74MB C:/Users/명진/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.02-11.36.10:394][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/명진/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.03.02-11.36.10:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.02-11.36.10:394][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.02-11.36.10:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.02-11.36.10:394][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.02-11.36.10:449][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.02-11.36.10:462][  0]LogDerivedDataCache: Using Local data cache path C:/Users/명진/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.02-11.36.10:462][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.02-11.36.10:462][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.02-11.36.10:473][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.02-11.36.10:473][  0]LogSlate: Using Freetype 2.6.0
+[2019.03.02-11.36.10:519][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.02-11.36.10:519][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.02-11.36.18:990][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2019.03.02-11.36.20:585][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.02-11.36.21:455][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.02-11.36.21:458][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.02-11.36.21:458][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.02-11.36.21:458][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.02-11.36.21:458][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.03.02-11.36.21:458][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.03.02-11.36.21:540][  0]LogNetVersion: firstPractice , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 564753106)
+[2019.03.02-11.36.23:080][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.044053 seconds
+[2019.03.02-11.36.23:086][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.03.02-11.36.23:086][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.03.02-11.36.23:086][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.02-11.36.36:693][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.02-11.36.36:792][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.02-11.36.37:737][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.03.02-11.36.37:737][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.03.02-11.36.37:797][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.03.02-11.36.37:834][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.03.02-11.36.39:172][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.02-11.36.39:585][  0]LogOcInput: OculusInput pre-init called
+[2019.03.02-11.36.39:930][  0]LogEngine: Initializing Engine...
+[2019.03.02-11.36.39:934][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.02-11.36.39:935][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.02-11.36.39:935][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.02-11.36.40:977][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.02-11.36.41:043][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.02-11.36.41:138][  0]LogInit: FAudioDevice initialized.
+[2019.03.02-11.36.41:261][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/명진/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.02-11.36.41:289][  0]LogInit: Texture streaming: Enabled
+[2019.03.02-11.36.41:397][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.02-11.36.41:467][  0]LogInit: Transaction tracking system initialized
+[2019.03.02-11.36.41:595][  0]BlueprintLog: New page: 에디터 로드
+[2019.03.02-11.36.42:213][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.03.02-11.36.42:698][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c56c4ed7e0, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2019.03.02-11.36.42:702][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c56c4ed7e0, Size=88
+[2019.03.02-11.36.42:702][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c56c4ed7e0, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Transient.REINST_Landscape_Painting_Mode_C_3:ExecuteUbergraph_Landscape_Painting_Mode
+[2019.03.02-11.36.42:741][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c56c3c3d80, Size=80, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2019.03.02-11.36.43:383][  0]LogConsoleResponse: Display: 
+[2019.03.02-11.36.44:671][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.02-11.36.44:671][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.02-11.36.44:690][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Content/' took 0.04s
+[2019.03.02-11.36.44:690][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.02-11.36.44:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.02-11.36.44:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.02-11.36.46:177][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.03.02-11.36.46:177][  0]Cmd: MAP LOAD FILE="../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.02-11.36.46:205][  0]LightingResults: New page: 라이팅 빌드
+[2019.03.02-11.36.46:218][  0]MapCheck: New page: 맵 체크
+[2019.03.02-11.36.46:218][  0]LightingResults: New page: 라이팅 빌드
+[2019.03.02-11.36.46:253][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c56c4ed7e0, Size=88
+[2019.03.02-11.36.47:900][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.03.02-11.36.48:014][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.02-11.36.48:044][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.02-11.36.48:144][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 100.166ms.
+[2019.03.02-11.36.48:144][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.967
+[2019.03.02-11.36.48:588][  0]LogCollectionManager: Loaded 0 collections in 0.003358 seconds
+[2019.03.02-11.36.48:677][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Collections/' took 0.01s
+[2019.03.02-11.36.48:677][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Developers/명진/Collections/' took 0.01s
+[2019.03.02-11.36.48:677][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Collections/' took 0.01s
+[2019.03.02-11.36.48:677][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.02-11.36.48:692][  0]LogContentBrowser: Native class hierarchy populated in 0.0139 seconds. Added 2454 classes and 560 folders.
+[2019.03.02-11.36.48:702][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.02-11.36.50:761][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2019.03.02-11.36.50:809][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0032 seconds. Added 1 classes and 2 folders.
+[2019.03.02-11.36.51:238][  0]LogSlate: Took 0.038911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.02-11.36.51:324][  0]LogSlate: Took 0.084186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.03.02-11.36.51:391][  0]LogSlate: Took 0.065667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.03.02-11.36.51:415][  0]LogSlate: Took 0.024530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.02-11.36.51:450][  0]LogSlate: Took 0.027248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.02-11.36.51:479][  0]LogSlate: Took 0.029071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.03.02-11.36.51:610][  0]LogSlate: Took 0.085094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2019.03.02-11.36.52:091][  0]LogRenderer: Reallocating scene render targets to support 896x448 Format 9 NumSamples 1 (Frame:1).
+[2019.03.02-11.36.52:580][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.03.02-11.36.52:581][  0]LogLoad: (Engine Initialization) Total time: 59.71 seconds
+[2019.03.02-11.36.52:581][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.02-11.36.52:960][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.03.02-11.36.53:598][  2]LogAssetRegistry: Asset discovery search completed in 34.6304 seconds
+[2019.03.02-11.36.53:609][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.02-11.36.53:609][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008847 seconds (updated 0 objects)
+[2019.03.02-11.48.27:660][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-11.48.27:774][122]Candidate modules for hot reload:
+[2019.03.02-11.48.27:775][122]  firstPractice
+[2019.03.02-11.48.27:775][122]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,7211 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-11.48.27:778][122]Warning: Starting HotReload took  0.0s.
+[2019.03.02-11.51.10:065][ 42]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 5:51:10
+[2019.03.02-11.51.10:067][ 42]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-11.51.10:067][ 42]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-11.51.10:067][ 42]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-11.51.10:067][ 42]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-11.51.10:069][ 42]CompilerResultsLog: Reflection code generated for firstPracticeEditor in 28.2292237 seconds
+[2019.03.02-11.51.10:069][ 42]CompilerResultsLog: Performing 5 actions (2 in parallel)
+[2019.03.02-11.51.10:069][ 42]CompilerResultsLog: firstPractice.init.gen.cpp
+[2019.03.02-11.51.10:069][ 42]CompilerResultsLog: MyObject.cpp
+[2019.03.02-11.51.10:069][ 42]CompilerResultsLog: MyObject.gen.cpp
+[2019.03.02-11.51.10:070][ 42]CompilerResultsLog: [4/5] Link UE4Editor-firstPractice-7211.dll
+[2019.03.02-11.51.10:070][ 42]CompilerResultsLog: [5/5] Link UE4Editor-firstPractice-7211.lib
+[2019.03.02-11.51.10:070][ 42]CompilerResultsLog:    D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-7211.lib ???̺귯?? ?? D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-7211.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.03.02-11.51.10:339][ 42]LogSlate: Took 0.269066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.03.02-11.51.10:483][ 42]LogSlate: Took 0.143035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.03.02-11.51.10:663][ 42]LogSlate: Took 0.177734 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.03.02-11.51.10:664][ 42]CompilerResultsLog:    D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-7211.suppressed.lib ???̺귯?? ?? D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-7211.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.03.02-11.51.10:665][ 42]CompilerResultsLog: Total build time: 161.48 seconds (Local executor: 131.90 seconds)
+[2019.03.02-11.51.10:665][ 42]LogMainFrame: MainFrame: Module compiling took 162.896 seconds
+[2019.03.02-11.51.10:686][ 42]LogClass: Could not find existing class MyObject in package /Script/firstPractice for HotReload, assuming new class
+[2019.03.02-11.51.10:688][ 42]LogHotReload: Re-instancing MyObject after hot-reload.
+[2019.03.02-11.51.10:739][ 42]LogContentBrowser: Native class hierarchy updated for 'firstPractice' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2019.03.02-11.51.10:742][ 42]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.02-11.51.10:853][ 42]LogContentBrowser: Native class hierarchy populated in 0.0176 seconds. Added 2455 classes and 562 folders.
+[2019.03.02-11.51.10:853][ 42]Display: HotReload took 163.1s.
+[2019.03.02-11.56.00:291][952]Candidate modules for hot reload:
+[2019.03.02-11.56.00:292][952]  firstPractice
+[2019.03.02-11.56.00:292][952]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,3760 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-11.56.00:296][952]Warning: Starting HotReload took  0.0s.
+[2019.03.02-11.56.22:841][286]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 5:56:22
+[2019.03.02-11.56.22:849][286]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-11.56.22:850][286]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-11.56.22:850][286]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-11.56.22:850][286]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-11.56.22:851][286]CompilerResultsLog: Error: D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Source/firstPractice/MyObject.h(24)  : Error: 'Enum' is not allowed here
+[2019.03.02-11.56.22:851][286]CompilerResultsLog: UnrealHeaderTool failed for target 'firstPracticeEditor' (platform: Win64, module info: D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest).
+[2019.03.02-11.56.22:852][286]LogMainFrame: MainFrame: Module compiling took 22.565 seconds
+[2019.03.02-11.56.22:852][286]Warning: HotReload failed, recompile failed
+[2019.03.02-11.57.08:083][434]Candidate modules for hot reload:
+[2019.03.02-11.57.08:083][434]  firstPractice
+[2019.03.02-11.57.08:083][434]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,308 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-11.57.08:091][434]Warning: Starting HotReload took  0.0s.
+[2019.03.02-11.57.30:783][750]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 5:57:30
+[2019.03.02-11.57.30:784][750]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-11.57.30:785][750]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-11.57.30:785][750]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-11.57.30:785][750]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-11.57.30:786][750]CompilerResultsLog: Error: D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Source/firstPractice/MyObject.h(24)  : Error: 'Enum' is not allowed here
+[2019.03.02-11.57.30:786][750]CompilerResultsLog: UnrealHeaderTool failed for target 'firstPracticeEditor' (platform: Win64, module info: D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest).
+[2019.03.02-11.57.30:788][750]LogMainFrame: MainFrame: Module compiling took 22.711 seconds
+[2019.03.02-11.57.30:788][750]Warning: HotReload failed, recompile failed
+[2019.03.02-12.00.30:963][894]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.00.30:967][894]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.00.31:911][943]Candidate modules for hot reload:
+[2019.03.02-12.00.31:911][943]  firstPractice
+[2019.03.02-12.00.31:911][943]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,6178 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-12.00.31:915][943]Warning: Starting HotReload took  0.1s.
+[2019.03.02-12.00.54:407][267]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 6:00:54
+[2019.03.02-12.00.54:408][267]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-12.00.54:408][267]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-12.00.54:408][267]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-12.00.54:408][267]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-12.00.54:409][267]CompilerResultsLog: Error: D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Source/firstPractice/MyObject.h(24)  : Error: 'Enum' is not allowed here
+[2019.03.02-12.00.54:410][267]CompilerResultsLog: UnrealHeaderTool failed for target 'firstPracticeEditor' (platform: Win64, module info: D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest).
+[2019.03.02-12.00.54:410][267]LogMainFrame: MainFrame: Module compiling took 22.505 seconds
+[2019.03.02-12.00.54:410][267]Warning: HotReload failed, recompile failed
+[2019.03.02-12.01.35:366][173]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.01.35:369][173]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.01.36:514][240]Candidate modules for hot reload:
+[2019.03.02-12.01.36:515][240]  firstPractice
+[2019.03.02-12.01.36:515][240]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,6741 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-12.01.36:518][240]Warning: Starting HotReload took  0.0s.
+[2019.03.02-12.02.00:153][586]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 6:02:00
+[2019.03.02-12.02.00:154][586]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-12.02.00:154][586]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-12.02.00:155][586]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-12.02.00:155][586]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-12.02.00:156][586]CompilerResultsLog: Error: D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Source/firstPractice/MyObject.h(24)  : Error: 'Enum' is not allowed here
+[2019.03.02-12.02.00:157][586]CompilerResultsLog: UnrealHeaderTool failed for target 'firstPracticeEditor' (platform: Win64, module info: D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest).
+[2019.03.02-12.02.00:158][586]LogMainFrame: MainFrame: Module compiling took 23.649 seconds
+[2019.03.02-12.02.00:160][586]Warning: HotReload failed, recompile failed
+[2019.03.02-12.02.29:134][945]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.02.29:138][945]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.02.52:421][ 77]Candidate modules for hot reload:
+[2019.03.02-12.02.52:421][ 77]  firstPractice
+[2019.03.02-12.02.52:421][ 77]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,3831 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-12.02.52:426][ 77]Warning: Starting HotReload took  0.1s.
+[2019.03.02-12.03.16:160][413]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 6:03:16
+[2019.03.02-12.03.16:161][413]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-12.03.16:161][413]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-12.03.16:162][413]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-12.03.16:162][413]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-12.03.16:162][413]CompilerResultsLog: Error: D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Source/firstPractice/MyObject.h(16)  : Error: 'Enum' is not allowed here
+[2019.03.02-12.03.16:163][413]CompilerResultsLog: UnrealHeaderTool failed for target 'firstPracticeEditor' (platform: Win64, module info: D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest).
+[2019.03.02-12.03.16:163][413]LogMainFrame: MainFrame: Module compiling took 23.748 seconds
+[2019.03.02-12.03.16:163][413]Warning: HotReload failed, recompile failed
+[2019.03.02-12.05.20:286][444]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.05.20:290][444]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.05.20:995][485]Candidate modules for hot reload:
+[2019.03.02-12.05.20:995][485]  firstPractice
+[2019.03.02-12.05.20:996][485]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,8256 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-12.05.20:999][485]Warning: Starting HotReload took  0.0s.
+[2019.03.02-12.05.43:018][782]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 6:05:43
+[2019.03.02-12.05.43:018][782]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-12.05.43:018][782]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-12.05.43:019][782]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-12.05.43:019][782]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-12.05.43:020][782]CompilerResultsLog: Error: D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Source/firstPractice/MyObject.h(23)  : Error: 'Enum' is not allowed here
+[2019.03.02-12.05.43:020][782]CompilerResultsLog: UnrealHeaderTool failed for target 'firstPracticeEditor' (platform: Win64, module info: D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest).
+[2019.03.02-12.05.43:021][782]LogMainFrame: MainFrame: Module compiling took 22.031 seconds
+[2019.03.02-12.05.43:021][782]Warning: HotReload failed, recompile failed
+[2019.03.02-12.05.53:601][411]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.05.53:604][411]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.06.11:003][881]Candidate modules for hot reload:
+[2019.03.02-12.06.11:004][881]  firstPractice
+[2019.03.02-12.06.11:004][881]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,9259 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-12.06.11:010][881]Warning: Starting HotReload took  0.0s.
+[2019.03.02-12.06.33:216][191]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 6:06:33
+[2019.03.02-12.06.33:219][191]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-12.06.33:220][191]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-12.06.33:221][191]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-12.06.33:221][191]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-12.06.33:224][191]CompilerResultsLog: Error: D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Source/firstPractice/MyObject.h(23)  : Error: 'Enum' is not allowed here
+[2019.03.02-12.06.33:224][191]CompilerResultsLog: UnrealHeaderTool failed for target 'firstPracticeEditor' (platform: Win64, module info: D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest).
+[2019.03.02-12.06.33:226][191]LogMainFrame: MainFrame: Module compiling took 22.229 seconds
+[2019.03.02-12.06.33:227][191]Warning: HotReload failed, recompile failed
+[2019.03.02-12.07.39:498][218]Candidate modules for hot reload:
+[2019.03.02-12.07.39:499][218]  firstPractice
+[2019.03.02-12.07.39:499][218]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,2327 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-12.07.39:503][218]Warning: Starting HotReload took  0.0s.
+[2019.03.02-12.07.56:260][362]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 6:07:56
+[2019.03.02-12.07.56:260][362]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-12.07.56:261][362]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-12.07.56:261][362]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-12.07.56:261][362]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-12.07.56:262][362]CompilerResultsLog: Reflection code generated for firstPracticeEditor in 10.0262894 seconds
+[2019.03.02-12.07.56:262][362]CompilerResultsLog: Performing 5 actions (2 in parallel)
+[2019.03.02-12.07.56:263][362]CompilerResultsLog: firstPractice.init.gen.cpp
+[2019.03.02-12.07.56:263][362]CompilerResultsLog: MyObject.cpp
+[2019.03.02-12.07.56:264][362]CompilerResultsLog: MyObject.gen.cpp
+[2019.03.02-12.07.56:264][362]CompilerResultsLog: [4/5] Link UE4Editor-firstPractice-2327.dll
+[2019.03.02-12.07.56:264][362]CompilerResultsLog: [5/5] Link UE4Editor-firstPractice-2327.lib
+[2019.03.02-12.07.56:264][362]CompilerResultsLog:    D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-2327.lib ???̺귯?? ?? D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-2327.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.03.02-12.07.56:265][362]CompilerResultsLog:    D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-2327.suppressed.lib ???̺귯?? ?? D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-2327.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.03.02-12.07.56:266][362]CompilerResultsLog: Total build time: 16.03 seconds (Local executor: 4.64 seconds)
+[2019.03.02-12.07.56:266][362]LogMainFrame: MainFrame: Module compiling took 16.773 seconds
+[2019.03.02-12.07.56:320][362]LogClass: Could not find existing class MyObject in package /Script/firstPractice for HotReload, assuming new class
+[2019.03.02-12.07.56:323][362]LogHotReload: Re-instancing MyObject after hot-reload.
+[2019.03.02-12.07.56:364][362]LogContentBrowser: Native class hierarchy updated for 'firstPractice' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2019.03.02-12.07.56:366][362]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.02-12.07.56:415][362]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2455 classes and 562 folders.
+[2019.03.02-12.07.56:416][362]Display: HotReload took 16.9s.
+[2019.03.02-12.10.09:913][ 98]Candidate modules for hot reload:
+[2019.03.02-12.10.09:914][ 98]  firstPractice
+[2019.03.02-12.10.09:914][ 98]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,6680 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-12.10.09:918][ 98]Warning: Starting HotReload took  0.0s.
+[2019.03.02-12.10.27:101][339]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 6:10:27
+[2019.03.02-12.10.27:101][339]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-12.10.27:103][339]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-12.10.27:103][339]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-12.10.27:103][339]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-12.10.27:104][339]CompilerResultsLog: Reflection code generated for firstPracticeEditor in 10.7640597 seconds
+[2019.03.02-12.10.27:104][339]CompilerResultsLog: Performing 5 actions (2 in parallel)
+[2019.03.02-12.10.27:104][339]CompilerResultsLog: firstPractice.init.gen.cpp
+[2019.03.02-12.10.27:104][339]CompilerResultsLog: MyObject.cpp
+[2019.03.02-12.10.27:104][339]CompilerResultsLog: MyObject.gen.cpp
+[2019.03.02-12.10.27:104][339]CompilerResultsLog: [4/5] Link UE4Editor-firstPractice-6680.dll
+[2019.03.02-12.10.27:104][339]CompilerResultsLog: [5/5] Link UE4Editor-firstPractice-6680.lib
+[2019.03.02-12.10.27:105][339]CompilerResultsLog:    D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-6680.lib ???̺귯?? ?? D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-6680.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.03.02-12.10.27:105][339]CompilerResultsLog:    D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-6680.suppressed.lib ???̺귯?? ?? D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-6680.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.03.02-12.10.27:106][339]CompilerResultsLog: Total build time: 16.58 seconds (Local executor: 4.35 seconds)
+[2019.03.02-12.10.27:106][339]LogMainFrame: MainFrame: Module compiling took 17.197 seconds
+[2019.03.02-12.10.27:152][339]LogClass: Could not find existing class MyObject in package /Script/firstPractice for HotReload, assuming new class
+[2019.03.02-12.10.27:155][339]LogHotReload: Re-instancing MyObject after hot-reload.
+[2019.03.02-12.10.27:196][339]LogContentBrowser: Native class hierarchy updated for 'firstPractice' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2019.03.02-12.10.27:198][339]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.02-12.10.27:247][339]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2455 classes and 562 folders.
+[2019.03.02-12.10.27:248][339]Display: HotReload took 17.4s.
+[2019.03.02-12.11.21:763][558]LogUObjectGlobals: Warning: 'Object /Script/firstPractice.firstPracticeGameMode' 오브젝트를 찾는 데 실패했습니다.
+[2019.03.02-12.11.23:031][610]LogSlate: Took 0.021211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.02-12.11.40:769][ 42]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.03.02-12.11.42:177][ 42]LogSlate: Window '공백 블루프린트 클래스 생성' being destroyed
+[2019.03.02-12.11.43:188][ 42]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2019.03.02-12.11.43:517][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5146fe740, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.02-12.11.43:518][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c5146fe708, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.02-12.11.44:159][ 42]LogSlate: Took 0.032195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.02-12.11.47:382][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.037
+[2019.03.02-12.11.47:387][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint] ([1] browsable assets)...
+[2019.03.02-12.11.47:387][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint]
+[2019.03.02-12.11.47:407][210]LogSavePackage: Save=15.37ms
+[2019.03.02-12.11.47:408][210]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/NewBlueprint_Auto1CD9F818C4FCFB7B48799AB9052DBC2A3.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto1.uasset'
+[2019.03.02-12.11.47:409][210]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto1.uasset
+[2019.03.02-12.11.47:410][210]LogFileHelpers: Auto-saving content packages took 0.025
+[2019.03.02-12.12.13:232][ 20]LogSlate: Window 'NewBlueprint*' being destroyed
+[2019.03.02-12.12.13:240][ 20]LogSlate: Window 'NewBlueprint*' being destroyed
+[2019.03.02-12.12.14:291][ 68]Candidate modules for hot reload:
+[2019.03.02-12.12.14:291][ 68]  firstPractice
+[2019.03.02-12.12.14:291][ 68]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,4138 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-12.12.14:295][ 68]Warning: Starting HotReload took  0.0s.
+[2019.03.02-12.12.50:674][118]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 6:12:50
+[2019.03.02-12.12.50:674][118]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-12.12.50:674][118]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-12.12.50:674][118]CompilerResultsLog: Parsing headers for firstPracticeEditor
+[2019.03.02-12.12.50:675][118]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\firstPractice.uproject" "D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\firstPracticeEditor\Development\firstPracticeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.02-12.12.50:675][118]CompilerResultsLog: Reflection code generated for firstPracticeEditor in 23.3950778 seconds
+[2019.03.02-12.12.50:676][118]CompilerResultsLog: Performing 5 actions (2 in parallel)
+[2019.03.02-12.12.50:676][118]CompilerResultsLog: firstPractice.init.gen.cpp
+[2019.03.02-12.12.50:676][118]CompilerResultsLog: MyObject.cpp
+[2019.03.02-12.12.50:676][118]CompilerResultsLog: MyObject.gen.cpp
+[2019.03.02-12.12.50:676][118]CompilerResultsLog: [4/5] Link UE4Editor-firstPractice-4138.dll
+[2019.03.02-12.12.50:677][118]CompilerResultsLog: [5/5] Link UE4Editor-firstPractice-4138.lib
+[2019.03.02-12.12.50:677][118]CompilerResultsLog:    D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-4138.lib ???̺귯?? ?? D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-4138.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.03.02-12.12.50:677][118]CompilerResultsLog:    D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-4138.suppressed.lib ???̺귯?? ?? D:\Unreal 4.19\MJ_UnrealProject\firstPractice\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firstPractice-4138.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.03.02-12.12.50:678][118]CompilerResultsLog: Total build time: 35.80 seconds (Local executor: 10.65 seconds)
+[2019.03.02-12.12.50:678][118]LogMainFrame: MainFrame: Module compiling took 36.393 seconds
+[2019.03.02-12.12.50:774][118]LogClass: Could not find existing class MyObject in package /Script/firstPractice for HotReload, assuming new class
+[2019.03.02-12.12.50:778][118]LogHotReload: Re-instancing MyObject after hot-reload.
+[2019.03.02-12.12.50:849][118]LogContentBrowser: Native class hierarchy updated for 'firstPractice' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2019.03.02-12.12.50:852][118]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.02-12.12.51:219][118]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2455 classes and 562 folders.
+[2019.03.02-12.12.51:220][118]Display: HotReload took 37.0s.
+[2019.03.02-12.14.05:061][171]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.03.02-12.14.06:317][171]LogSlate: Window '공백 블루프린트 클래스 생성' being destroyed
+[2019.03.02-12.14.11:939][466]LogSlate: Window 'NewBlueprint1*' being destroyed
+[2019.03.02-12.14.11:947][466]LogSlate: Window 'NewBlueprint1*' being destroyed
+[2019.03.02-12.14.49:626][149]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.02-12.14.54:039][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-12.15.19:289][839]LogSlate: Window '클래스 뷰어' being destroyed
+[2019.03.02-12.15.34:155][  3]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.03.02-12.15.42:355][  3]LogSlate: Window '메시지' being destroyed
+[2019.03.02-12.15.46:186][  3]LogSlate: Window '공백 블루프린트 클래스 생성' being destroyed
+[2019.03.02-12.20.34:607][608]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.03.02-12.20.43:994][ 49]LogHotReload: New module detected: UE4Editor-firstPractice-899.dll
+[2019.03.02-12.20.45:713][ 55]LogHotReload: Starting Hot-Reload from IDE
+[2019.03.02-12.20.45:814][ 55]LogClass: Could not find existing class MyObject in package /Script/firstPractice for HotReload, assuming new class
+[2019.03.02-12.20.45:821][ 55]LogHotReload: Re-instancing MyObject after hot-reload.
+[2019.03.02-12.20.46:006][ 55]LogContentBrowser: Native class hierarchy updated for 'firstPractice' in 0.0011 seconds. Added 2 classes and 2 folders.
+[2019.03.02-12.20.46:009][ 55]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.02-12.20.46:565][ 55]LogContentBrowser: Native class hierarchy populated in 0.0303 seconds. Added 2455 classes and 562 folders.
+[2019.03.02-12.20.46:570][ 55]Display: HotReload took  0.9s.
+[2019.03.02-12.21.33:609][550]Candidate modules for hot reload:
+[2019.03.02-12.21.33:609][550]  firstPractice
+[2019.03.02-12.21.33:609][550]Launching UnrealBuildTool... [D:/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe firstPractice -ModuleWithSuffix=firstPractice,4737 Win64 Development -editorrecompile -canskiplink "D:/Unreal 4.19/MJ_UnrealProject/firstPractice/firstPractice.uproject" ]
+[2019.03.02-12.21.33:612][550]Warning: Starting HotReload took  0.0s.
+[2019.03.02-12.21.35:595][653]CompilerResultsLog: New page: 컴파일 - 2019. 3. 3. 오전 6:21:35
+[2019.03.02-12.21.35:596][653]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.02-12.21.35:596][653]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.02-12.21.35:597][653]CompilerResultsLog: Target is up to date
+[2019.03.02-12.21.35:597][653]CompilerResultsLog: Total build time: 1.54 seconds (NoActionsToExecute executor: 0.01 seconds)
+[2019.03.02-12.21.35:597][653]LogMainFrame: MainFrame: Module compiling took 1.991 seconds
+[2019.03.02-12.21.35:915][653]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2455 classes and 562 folders.
+[2019.03.02-12.21.35:915][653]Display: HotReload took  2.3s.
+[2019.03.02-12.21.45:626][928]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.03.02-12.22.09:166][312]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.02-12.22.14:145][564]LogSlate: Window 'NewBlueprint*' being destroyed
+[2019.03.02-12.22.50:373][539]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.099
+[2019.03.02-12.22.50:377][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint] ([1] browsable assets)...
+[2019.03.02-12.22.50:377][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint]
+[2019.03.02-12.22.50:388][539]LogSavePackage: Save=7.71ms
+[2019.03.02-12.22.50:389][539]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/NewBlueprint_Auto2F1E7E4F74BFCF0202D4BE68279AB06BE.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto2.uasset'
+[2019.03.02-12.22.50:390][539]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto2.uasset
+[2019.03.02-12.22.50:391][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint1] ([1] browsable assets)...
+[2019.03.02-12.22.50:392][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint1]
+[2019.03.02-12.22.50:403][539]LogSavePackage: Save=9.61ms
+[2019.03.02-12.22.50:403][539]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/NewBlueprint1_Auto242876D66452DD4AF1FD7F6903947468C.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/Blueprints/NewBlueprint1_Auto2.uasset'
+[2019.03.02-12.22.50:404][539]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/Blueprints/NewBlueprint1_Auto2.uasset
+[2019.03.02-12.22.50:405][539]LogFileHelpers: Auto-saving content packages took 0.030
+[2019.03.02-12.23.23:251][125]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.03.02-12.23.25:889][125]LogSlate: Window '공백 블루프린트 클래스 생성' being destroyed
+[2019.03.02-12.24.48:756][990]LogSlate: Window 'NewBlueprint2*' being destroyed
+[2019.03.02-12.26.01:139][891]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.02-12.26.52:746][849]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.02-12.27.06:265][627]LogWindows: LaunchURL http://docs.unrealengine.com/latest/KOR/Engine/Blueprints/UserGuide/Types/ClassBlueprint/index.html?utm_source=editor&utm_medium=docs&utm_campaign=cb_docs
+[2019.03.02-12.28.20:702][319]LogSlate: Window 'Minimal_Default* - 레벨 블루프린트 에디터' being destroyed
+[2019.03.02-12.32.09:522][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c535827e38, Size=4, Default__SKEL_Minimal_Default_C Function /Game/StarterContent/Maps/Minimal_Default.SKEL_Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+[2019.03.02-12.32.59:580][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c535827e38, Size=4
+[2019.03.02-12.32.59:580][796]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c59da47308, Size=4, Default__SKEL_Minimal_Default_C Function /Engine/Transient.REINST_SKEL_Minimal_Default_C_49:ExecuteUbergraph_Minimal_Default
+[2019.03.02-12.33.48:857][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyObject" FILE="../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/MyObject.uasset" SILENT=true
+[2019.03.02-12.33.48:869][633]LogSavePackage: Save=7.83ms
+[2019.03.02-12.33.48:869][633]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/MyObject584E2A8B48114B82E77D0E9AFC71C000.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/MyObject.uasset'
+[2019.03.02-12.33.48:873][633]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/MyObject.uasset
+[2019.03.02-12.34.49:062][191]LogWindows: LaunchURL http://docs.unrealengine.com/latest/KOR/Engine/Blueprints/UserGuide/Types/ClassBlueprint/index.html?utm_source=editor&utm_medium=docs&utm_campaign=cb_docs
+[2019.03.02-12.35.13:928][654]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c59da47308, Size=4
+[2019.03.02-12.35.14:252][654]LogSavePackage: Save=222.22ms
+[2019.03.02-12.35.14:252][654]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Minimal_Default_Auto3C19A189F46E436D9B7F25A921BECAF70.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2019.03.02-12.35.14:253][654]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap
+[2019.03.02-12.35.14:286][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.491
+[2019.03.02-12.35.14:287][654]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.491
+[2019.03.02-12.35.14:290][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint2] ([1] browsable assets)...
+[2019.03.02-12.35.14:290][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint2]
+[2019.03.02-12.35.14:300][654]LogSavePackage: Save=6.06ms
+[2019.03.02-12.35.14:301][654]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/NewBlueprint2_Auto37B93F59440932FA54010469713BDC4F1.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/Blueprints/NewBlueprint2_Auto3.uasset'
+[2019.03.02-12.35.14:302][654]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Autosaves/Game/Blueprints/NewBlueprint2_Auto3.uasset
+[2019.03.02-12.35.14:302][654]LogFileHelpers: Auto-saving content packages took 0.013
+[2019.03.02-12.36.32:036][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyObject1" FILE="../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/MyObject1.uasset" SILENT=true
+[2019.03.02-12.36.32:052][197]LogSavePackage: Save=8.99ms
+[2019.03.02-12.36.32:052][197]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/MyObject12DDB8D94453DB3B9A4232288089D1725.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/MyObject1.uasset'
+[2019.03.02-12.36.32:056][197]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/MyObject1.uasset
+[2019.03.02-12.36.32:717][231]LogSlate: Window 'MyObject1' being destroyed
+[2019.03.02-12.36.32:730][231]LogSlate: Window 'MyObject1' being destroyed
+[2019.03.02-12.37.23:311][482]LogSlate: Window 'C++ 컴포넌트 추가' being destroyed
+[2019.03.02-12.37.23:323][482]LogUObjectGlobals: Warning: 'Class 없음.' 오브젝트를 찾는 데 실패했습니다.
+[2019.03.02-12.37.39:557][371]LogSlate: Window 'MyObject1' being destroyed
+[2019.03.02-12.37.39:565][371]LogSlate: Window 'MyObject1' being destroyed
+[2019.03.02-12.37.50:780][980]LogSlate: Window 'MyObject1' being destroyed
+[2019.03.02-12.37.50:785][980]LogSlate: Window 'MyObject1' being destroyed
+[2019.03.02-12.40.51:604][284]LogSavePackage: Save=126.65ms
+[2019.03.02-12.40.51:604][284]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Minimal_DefaultF93B391A49EA9B2B01A02A91901C9F45.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.02-12.40.51:604][284]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap', retrying in .5s...
+[2019.03.02-12.40.52:107][284]LogFileManager: Error: Error deleting file '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap'.
+[2019.03.02-12.40.52:107][284]LogSavePackage: Error: Error saving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.02-12.40.52:109][284]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap
+[2019.03.02-12.40.52:278][284]EditorErrors: New page: 출력 저장
+[2019.03.02-12.40.52:279][284]EditorErrors: Warning: '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap' 저장 오류입니다.
+[2019.03.02-12.41.00:729][709]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.41.00:734][709]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.41.02:480][803]LogSavePackage: Save=115.97ms
+[2019.03.02-12.41.02:480][803]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Minimal_Default2D2F442344F62C93F81D15ADCBAD6CF8.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.02-12.41.02:480][803]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap', retrying in .5s...
+[2019.03.02-12.41.02:982][803]LogFileManager: Error: Error deleting file '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap'.
+[2019.03.02-12.41.02:982][803]LogSavePackage: Error: Error saving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.02-12.41.02:985][803]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap
+[2019.03.02-12.41.02:992][803]EditorErrors: New page: 출력 저장
+[2019.03.02-12.41.02:992][803]EditorErrors: Warning: '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap' 저장 오류입니다.
+[2019.03.02-12.41.06:573][ 10]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.41.06:577][ 10]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.41.10:379][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewBlueprint" FILE="../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/NewBlueprint.uasset" SILENT=true
+[2019.03.02-12.41.10:394][ 59]LogSavePackage: Save=6.92ms
+[2019.03.02-12.41.10:394][ 59]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/NewBlueprint3AA6E19A48C3DDFCBD7A4699ABF495B3.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/NewBlueprint.uasset'
+[2019.03.02-12.41.10:401][ 59]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/NewBlueprint.uasset
+[2019.03.02-12.41.10:412][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewBlueprint1" FILE="../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/NewBlueprint1.uasset" SILENT=true
+[2019.03.02-12.41.10:467][ 59]LogSavePackage: Save=7.69ms
+[2019.03.02-12.41.10:467][ 59]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/NewBlueprint1F31ACEA44DF445D1539215885EFF3CC5.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/NewBlueprint1.uasset'
+[2019.03.02-12.41.10:476][ 59]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/NewBlueprint1.uasset
+[2019.03.02-12.41.10:483][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NewBlueprint2" FILE="../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/NewBlueprint2.uasset" SILENT=true
+[2019.03.02-12.41.10:499][ 59]LogSavePackage: Save=10.01ms
+[2019.03.02-12.41.10:499][ 59]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/NewBlueprint24D3BB10C44A68BA909E5B3B738512EF1.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/NewBlueprint2.uasset'
+[2019.03.02-12.41.10:506][ 59]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Blueprints/NewBlueprint2.uasset
+[2019.03.02-12.41.13:191][211]LogSavePackage: Save=106.52ms
+[2019.03.02-12.41.13:191][211]LogSavePackage: Moving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Minimal_Default1408F0FF4431C8B491B0C68C04A6774D.tmp' to '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.02-12.41.13:192][211]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap', retrying in .5s...
+[2019.03.02-12.41.13:693][211]LogFileManager: Error: Error deleting file '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap'.
+[2019.03.02-12.41.13:693][211]LogSavePackage: Error: Error saving '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.03.02-12.41.13:697][211]LogSavePackage: Display: Finished SavePackage ../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap
+[2019.03.02-12.41.13:710][211]EditorErrors: New page: 출력 저장
+[2019.03.02-12.41.13:711][211]EditorErrors: Warning: '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/StarterContent/Maps/Minimal_Default.umap' 저장 오류입니다.
+[2019.03.02-12.41.23:519][575]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.41.23:523][575]LogSlate: Window '메시지 로그' being destroyed
+[2019.03.02-12.41.24:369][605]LogSlate: Window 'firstPractice - 언리얼 에디터' being destroyed
+[2019.03.02-12.41.25:037][606]Cmd: QUIT_EDITOR
+[2019.03.02-12.41.25:434][606]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.03.02-12.41.25:523][606]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.02-12.41.25:532][606]LogExit: Preparing to exit.
+[2019.03.02-12.41.26:768][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Content/' was aborted.
+[2019.03.02-12.41.27:156][606]LogExit: Editor shut down
+[2019.03.02-12.41.27:204][606]LogExit: Transaction tracking system shut down
+[2019.03.02-12.41.27:204][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c56c3c3d80, Size=80
+[2019.03.02-12.41.27:213][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5146fe740, Size=4
+[2019.03.02-12.41.27:213][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c5146fe708, Size=4
+[2019.03.02-12.41.27:347][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.03.02-12.41.27:347][606]LogDirectoryWatcher: A directory notification for '../../../../Unreal 4.19/MJ_UnrealProject/firstPractice/Content/' was aborted.
+[2019.03.02-12.41.27:347][606]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.03.02-12.41.27:347][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.03.02-12.41.27:347][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.03.02-12.41.27:347][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.03.02-12.41.27:347][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.03.02-12.41.27:347][606]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.03.02-12.41.29:031][606]LogExit: Object subsystem successfully closed.
+[2019.03.02-12.41.29:360][606]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.02-12.41.29:417][606]LogD3D11RHI: Shutdown
+[2019.03.02-12.41.29:432][606]LogD3D11RHI: CleanupD3DDevice
+[2019.03.02-12.41.29:470][606]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.02-12.41.30:602][606]LogModuleManager: Shutting down and abandoning module firstPractice (583)
+[2019.03.02-12.41.30:602][606]LogModuleManager: Shutting down and abandoning module BlueprintGraph (581)
+[2019.03.02-12.41.30:602][606]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2019.03.02-12.41.30:602][606]LogModuleManager: Shutting down and abandoning module DesktopPlatform (574)
+[2019.03.02-12.41.30:615][606]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2019.03.02-12.41.30:629][606]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2019.03.02-12.41.30:644][606]LogDirectoryWatcher: A directory notification for 'D:/UE_4.19/FeaturePacks/' was aborted.
+[2019.03.02-12.41.30:653][606]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2019.03.02-12.41.30:654][606]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2019.03.02-12.41.30:654][606]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2019.03.02-12.41.30:678][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Collections/' was aborted.
+[2019.03.02-12.41.30:678][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Content/Developers/명진/Collections/' was aborted.
+[2019.03.02-12.41.30:678][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Saved/Collections/' was aborted.
+[2019.03.02-12.41.30:678][606]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2019.03.02-12.41.30:694][606]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2019.03.02-12.41.30:694][606]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2019.03.02-12.41.30:695][606]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2019.03.02-12.41.30:696][606]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2019.03.02-12.41.30:696][606]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2019.03.02-12.41.30:696][606]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2019.03.02-12.41.30:710][606]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2019.03.02-12.41.30:710][606]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2019.03.02-12.41.30:710][606]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2019.03.02-12.41.30:710][606]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2019.03.02-12.41.30:710][606]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2019.03.02-12.41.30:722][606]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2019.03.02-12.41.30:723][606]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2019.03.02-12.41.30:723][606]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2019.03.02-12.41.30:761][606]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2019.03.02-12.41.30:769][606]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2019.03.02-12.41.30:828][606]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2019.03.02-12.41.30:829][606]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2019.03.02-12.41.30:878][606]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2019.03.02-12.41.30:878][606]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2019.03.02-12.41.30:878][606]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2019.03.02-12.41.30:891][606]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2019.03.02-12.41.30:892][606]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2019.03.02-12.41.30:920][606]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2019.03.02-12.41.30:954][606]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2019.03.02-12.41.30:974][606]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2019.03.02-12.41.31:008][606]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2019.03.02-12.41.31:008][606]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2019.03.02-12.41.31:009][606]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2019.03.02-12.41.31:009][606]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2019.03.02-12.41.31:009][606]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2019.03.02-12.41.31:823][606]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2019.03.02-12.41.31:824][606]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2019.03.02-12.41.31:824][606]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2019.03.02-12.41.31:824][606]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2019.03.02-12.41.31:833][606]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2019.03.02-12.41.31:883][606]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2019.03.02-12.41.31:931][606]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2019.03.02-12.41.31:948][606]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2019.03.02-12.41.31:949][606]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2019.03.02-12.41.31:976][606]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2019.03.02-12.41.31:976][606]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2019.03.02-12.41.31:987][606]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2019.03.02-12.41.31:987][606]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2019.03.02-12.41.31:987][606]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2019.03.02-12.41.31:989][606]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2019.03.02-12.41.31:989][606]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2019.03.02-12.41.32:013][606]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2019.03.02-12.41.32:026][606]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2019.03.02-12.41.32:036][606]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2019.03.02-12.41.32:043][606]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2019.03.02-12.41.32:052][606]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2019.03.02-12.41.32:097][606]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2019.03.02-12.41.32:116][606]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2019.03.02-12.41.32:140][606]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2019.03.02-12.41.32:195][606]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2019.03.02-12.41.32:195][606]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2019.03.02-12.41.32:228][606]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2019.03.02-12.41.32:229][606]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2019.03.02-12.41.32:254][606]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2019.03.02-12.41.32:254][606]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2019.03.02-12.41.32:254][606]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2019.03.02-12.41.32:272][606]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2019.03.02-12.41.32:273][606]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2019.03.02-12.41.32:274][606]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2019.03.02-12.41.32:274][606]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2019.03.02-12.41.32:275][606]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2019.03.02-12.41.32:303][606]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2019.03.02-12.41.32:303][606]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2019.03.02-12.41.32:321][606]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2019.03.02-12.41.32:322][606]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2019.03.02-12.41.32:327][606]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2019.03.02-12.41.32:574][606]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2019.03.02-12.41.32:589][606]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2019.03.02-12.41.32:590][606]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2019.03.02-12.41.32:590][606]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2019.03.02-12.41.32:595][606]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2019.03.02-12.41.32:596][606]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2019.03.02-12.41.32:596][606]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2019.03.02-12.41.32:596][606]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2019.03.02-12.41.32:603][606]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2019.03.02-12.41.32:603][606]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2019.03.02-12.41.32:603][606]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2019.03.02-12.41.32:603][606]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2019.03.02-12.41.32:603][606]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2019.03.02-12.41.32:618][606]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2019.03.02-12.41.32:618][606]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2019.03.02-12.41.32:618][606]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2019.03.02-12.41.32:618][606]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2019.03.02-12.41.32:634][606]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2019.03.02-12.41.32:635][606]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2019.03.02-12.41.32:649][606]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2019.03.02-12.41.32:667][606]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2019.03.02-12.41.32:667][606]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2019.03.02-12.41.32:667][606]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2019.03.02-12.41.32:667][606]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2019.03.02-12.41.32:667][606]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2019.03.02-12.41.32:668][606]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2019.03.02-12.41.32:682][606]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2019.03.02-12.41.32:690][606]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2019.03.02-12.41.32:690][606]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2019.03.02-12.41.32:690][606]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2019.03.02-12.41.32:690][606]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2019.03.02-12.41.32:690][606]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2019.03.02-12.41.32:701][606]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2019.03.02-12.41.32:721][606]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2019.03.02-12.41.32:738][606]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2019.03.02-12.41.32:768][606]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2019.03.02-12.41.32:780][606]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2019.03.02-12.41.32:780][606]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2019.03.02-12.41.32:780][606]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2019.03.02-12.41.32:780][606]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2019.03.02-12.41.32:780][606]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2019.03.02-12.41.32:781][606]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.03.02-12.41.32:781][606]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.03.02-12.41.32:781][606]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.03.02-12.41.32:781][606]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.03.02-12.41.32:781][606]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.03.02-12.41.32:781][606]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2019.03.02-12.41.32:781][606]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2019.03.02-12.41.32:807][606]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2019.03.02-12.41.32:807][606]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2019.03.02-12.41.32:922][606]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2019.03.02-12.41.33:037][606]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2019.03.02-12.41.33:052][606]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2019.03.02-12.41.33:052][606]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2019.03.02-12.41.33:052][606]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2019.03.02-12.41.33:052][606]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2019.03.02-12.41.33:083][606]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2019.03.02-12.41.33:085][606]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2019.03.02-12.41.33:132][606]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2019.03.02-12.41.33:146][606]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2019.03.02-12.41.33:146][606]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.03.02-12.41.33:146][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal 4.19/MJ_UnrealProject/firstPractice/Binaries/Win64' was aborted.
+[2019.03.02-12.41.33:152][606]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2019.03.02-12.41.33:153][606]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2019.03.02-12.41.33:174][606]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2019.03.02-12.41.33:174][606]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2019.03.02-12.41.33:175][606]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2019.03.02-12.41.33:789][606]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2019.03.02-12.41.33:840][606]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2019.03.02-12.41.33:853][606]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2019.03.02-12.41.33:870][606]LogModuleManager: Shutting down and abandoning module Media (233)
+[2019.03.02-12.41.33:877][606]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.03.02-12.41.33:877][606]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.03.02-12.41.33:877][606]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.03.02-12.41.33:889][606]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.03.02-12.41.33:889][606]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.03.02-12.41.33:889][606]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.03.02-12.41.33:889][606]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.03.02-12.41.33:914][606]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.03.02-12.41.33:914][606]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.03.02-12.41.33:914][606]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.03.02-12.41.33:958][606]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.03.02-12.41.33:958][606]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.03.02-12.41.33:981][606]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.03.02-12.41.33:981][606]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.03.02-12.41.34:001][606]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.03.02-12.41.34:041][606]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.03.02-12.41.34:068][606]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.03.02-12.41.34:069][606]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.03.02-12.41.34:105][606]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.03.02-12.41.34:105][606]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.03.02-12.41.34:134][606]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.03.02-12.41.34:134][606]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.03.02-12.41.34:134][606]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.03.02-12.41.34:134][606]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.03.02-12.41.34:134][606]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.03.02-12.41.34:134][606]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.03.02-12.41.34:134][606]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2019.03.02-12.41.34:145][606]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.03.02-12.41.34:145][606]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.03.02-12.41.34:150][606]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.03.02-12.41.34:150][606]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.03.02-12.41.34:150][606]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2019.03.02-12.41.34:151][606]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2019.03.02-12.41.34:163][606]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.03.02-12.41.34:173][606]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.03.02-12.41.34:175][606]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2019.03.02-12.41.34:194][606]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.03.02-12.41.34:204][606]LogDerivedDataCache: Shutdown
+[2019.03.02-12.41.34:204][606]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.03.02-12.41.34:205][606]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.03.02-12.41.34:205][606]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.03.02-12.41.34:220][606]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.03.02-12.41.34:233][606]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.03.02-12.41.34:264][606]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.03.02-12.41.34:277][606]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.03.02-12.41.34:289][606]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.03.02-12.41.34:289][606]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.03.02-12.41.34:289][606]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.03.02-12.41.34:305][606]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.03.02-12.41.34:307][606]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.03.02-12.41.34:307][606]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.03.02-12.41.34:307][606]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.03.02-12.41.34:307][606]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.03.02-12.41.34:307][606]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.03.02-12.41.34:307][606]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.03.02-12.41.34:307][606]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.03.02-12.41.34:308][606]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.03.02-12.41.34:308][606]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.03.02-12.41.34:308][606]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.03.02-12.41.34:308][606]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.03.02-12.41.34:308][606]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.03.02-12.41.34:309][606]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.03.02-12.41.34:309][606]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.03.02-12.41.34:309][606]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.03.02-12.41.34:309][606]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2019.03.02-12.41.34:309][606]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2019.03.02-12.41.34:310][606]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2019.03.02-12.41.34:310][606]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2019.03.02-12.41.34:310][606]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2019.03.02-12.41.34:310][606]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2019.03.02-12.41.34:310][606]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2019.03.02-12.41.34:310][606]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2019.03.02-12.41.34:311][606]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2019.03.02-12.41.34:311][606]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2019.03.02-12.41.34:325][606]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2019.03.02-12.41.34:326][606]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2019.03.02-12.41.34:326][606]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2019.03.02-12.41.34:326][606]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2019.03.02-12.41.34:327][606]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2019.03.02-12.41.34:327][606]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2019.03.02-12.41.34:327][606]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2019.03.02-12.41.34:327][606]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.03.02-12.41.34:327][606]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.03.02-12.41.34:328][606]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.03.02-12.41.34:328][606]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.03.02-12.41.34:328][606]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.03.02-12.41.34:334][606]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.03.02-12.41.34:334][606]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.03.02-12.41.34:334][606]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.03.02-12.41.34:334][606]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.03.02-12.41.34:335][606]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.03.02-12.41.34:392][606]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.03.02-12.41.34:439][606]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.03.02-12.41.34:463][606]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.02-12.41.34:463][606]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B884A4391-4BB2-D990-9739-C8B4676D9D2F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=3ab23c8c42a0c25eeb957baea4c1830f%7Cac2bf3a7e5a14c5d912b3e22d189c986%7C9ad761f6-fda3-47ff-b1a9-e2736b4f7242&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.02-12.41.34:475][606]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.03.02-12.41.34:511][606]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.02-12.41.34:511][606]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.02-12.41.34:529][606]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.02-12.41.34:586][606]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.02-12.41.34:604][606]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.02-12.41.34:604][606]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.02-12.41.34:604][606]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.02-12.41.34:705][606]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.02-12.41.34:713][606]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.02-12.41.34:713][606]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.02-12.41.34:725][606]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.02-12.41.34:725][606]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.02-12.41.34:725][606]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.02-12.41.34:725][606]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.02-12.41.34:738][606]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.02-12.41.34:738][606]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.02-12.41.34:747][606]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.02-12.41.34:765][606]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.02-12.41.34:828][606]LogExit: Exiting.
+[2019.03.02-12.41.34:895][606]Log file closed, 03/02/19 21:41:34

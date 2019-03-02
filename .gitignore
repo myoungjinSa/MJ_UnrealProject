@@ -1,2 +1,7 @@
 /Debug/
 /Release/
+/realPractice
+/Build/
+\Build\
+*.db
+*.ipch
